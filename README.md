@@ -1,4 +1,5 @@
 Técnico em Informática ETEC Amin Jundi
+
 Programação em C - Plataforma Udemy
 Programação em Python - Plataforma Udemy
 Banco de Dados SQL - Plataforma Udemy
