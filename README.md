@@ -1,4 +1,4 @@
-Técnico em Informática ETEC Amin Jundi
+Técnico em Informática ETEC Amin Jundi 
 
 Programação em C - Plataforma Udemy
 
