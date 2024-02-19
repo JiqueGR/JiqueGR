@@ -4,16 +4,16 @@ Técnico em informática - ETEC AMIM JUNDI
 
 Ciência da Computação - UNIFAI (Centro Universitário de Adamantina) 
 
-•	Introdução à Ciência de Dados 3.0 – Data Science Academy
-•	Fundamentos de Engenharia de Dados – Data Science Academy
-•	Fundamentos de Linguagem Python para Análise de Dados e Data Science – Data Science Academy 
-•	Microsoft Power BI Para Business Intelligence e Data Science – Data Science Academy
+Introdução à Ciência de Dados 3.0 – Data Science Academy
+Fundamentos de Engenharia de Dados – Data Science Academy
+Fundamentos de Linguagem Python para Análise de Dados e Data Science – Data Science Academy 
+Microsoft Power BI Para Business Intelligence e Data Science – Data Science Academy
 
-•	Programação em Python do básico ao avançado – Udemy 
-•	O curso completo de Banco de Dados e SQL, sem mistérios! – Udemy 
-•	Programação Web com Microsoft Asp .NET do básico ao avançado – Udemy
-•	Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS – Udemy
-•	Aprenda Django REST Framework do Zero – Udemy
+Programação em Python do básico ao avançado – Udemy 
+O curso completo de Banco de Dados e SQL, sem mistérios! – Udemy 
+Programação Web com Microsoft Asp .NET do básico ao avançado – Udemy
+Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS – Udemy
+Aprenda Django REST Framework do Zero – Udemy
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiqueGR&show_icons=true&theme=radical)
