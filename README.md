@@ -16,7 +16,7 @@ Foco principal na análise de dados e desenvolvimento Full Stack, com destaque n
 </p><br><br>
 
 
-<section div align="center"">
+<div align="center">
   <a href="https://www.linkedin.com/in/joao-henrique-ravelli/">
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a> joao-henrique-ravelli
@@ -26,6 +26,6 @@ Foco principal na análise de dados e desenvolvimento Full Stack, com destaque n
   <a>
     <img src="https://skillicons.dev/icons?i=gmail" /> jiquegr@gmail.com
   </a>
-</section>
+</div>
 
 
