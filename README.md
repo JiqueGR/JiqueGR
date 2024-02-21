@@ -17,8 +17,13 @@ Foco principal na análise de dados e desenvolvimento Full Stack, com destaque n
     <a href="https://www.linkedin.com/in/joao-henrique-ravelli/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
+    <span style="margin-right: 10px;"></span> <!-- Espaço entre os ícones -->
     <img src="https://skillicons.dev/icons?i=discord" />
+    <span style="margin-left: 10px; margin-right: 10px;"></span> <!-- Espaço entre os ícones e texto -->
     <span>Jique #5895</span>
+    <span style="margin-left: 10px; margin-right: 10px;"></span> <!-- Espaço entre o texto e o próximo ícone -->
     <img src="https://skillicons.dev/icons?i=gmail" />
+    <span style="margin-left: 10px;"></span> <!-- Espaço após o último ícone -->
     <span>jiquegr@gmail.com</span>
 </div>
+
