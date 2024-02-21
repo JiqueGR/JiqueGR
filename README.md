@@ -1,6 +1,6 @@
 <p align="center"> Analista de Dados / Desenvolvedor Full Stack</p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=py,java,c,django,html,css,sqlserver,oracle&perline=8" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,java,c,django,html,css,sqlserver,oracle" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiqueGR&layout=compact)
 
