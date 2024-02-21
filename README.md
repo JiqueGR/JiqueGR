@@ -1,10 +1,10 @@
-<p align="center"> Analista de Dados / Desenvolvedor Full Stack 
+<p align="center"> Analista de Dados / Desenvolvedor Full Stack</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiqueGR&layout=compact)
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiqueGR&layout=compact)</p>
 
-<img src="https://skillicons.dev/icons?i=py,java,c,django,html,css,sqlserver,oracle&perline=8" />
+<p align="center"><img src="https://skillicons.dev/icons?i=py,java,c,django,html,css,sqlserver,oracle&perline=8" /></p>
 
-</p>
+
 
 Foco principal na análise de dados e desenvolvimento Full Stack, com destaque nas linguagens Python, Java e C#. Tenho experiência com bancos de dados relacionais, além de ter desenvolvido e consumido API's em projetos anteriores. Também estou familiarizado com ferramentas populares de análise de dados, como Pandas, Power BI e SQL.
 
