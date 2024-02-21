@@ -18,13 +18,13 @@ Foco principal na análise de dados e desenvolvimento Full Stack, com destaque n
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-henrique-ravelli/">
-    <img src="https://skillicons.dev/icons?i=linkedin" /> 
+    <img src="https://skillicons.dev/icons?i=linkedin"/> 
   </a> 
   <a>
-    <img src="https://skillicons.dev/icons?i=discord" /> 
+    <img src="https://skillicons.dev/icons?i=discord"/> 
    </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=gmail" /> 
+    <img src="https://skillicons.dev/icons?i=gmail"/> 
   </a>
 </div>
 
