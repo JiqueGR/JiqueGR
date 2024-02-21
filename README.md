@@ -13,15 +13,17 @@
 <br><br>
 Foco principal na análise de dados e desenvolvimento Full Stack, com destaque nas linguagens Python, Java e C#. Tenho experiência com bancos de dados relacionais, além de ter desenvolvido e consumido API's em projetos anteriores. Também estou familiarizado com ferramentas populares de análise de dados, como Pandas, Power BI e SQL. <br><br>
 
-<div style="float: left;">
-  <a href="https://www.linkedin.com/in/joao-henrique-ravelli/">
+<div>
+  <a href="https://www.linkedin.com/in/joao-henrique-ravelli/" align="left">
     <img src="https://skillicons.dev/icons?i=linkedin" /> joao-henrique-ravelli
+  </a>
+   <a align="center">
+    <img src="https://skillicons.dev/icons?i=discord" /> Jique #5895</span>
+  </a>
+  <a align="right">
+    <img src="https://skillicons.dev/icons?i=gmail" /> jiquegr@gmail.com</span>
   </a>
 </div>
 
-
-<img src="https://skillicons.dev/icons?i=discord" /> Jique #5895</span>
-
-<img src="https://skillicons.dev/icons?i=gmail" /> jiquegr@gmail.com</span>
 
 
