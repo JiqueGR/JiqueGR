@@ -1,11 +1,11 @@
 <p align="center"> Analista de Dados / Desenvolvedor Full Stack</p>
 
-<p align="center"></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,django,opencv,html,css,mysql,oracle" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,django,opencv,html,css,mysql,dotnet" />
   </a>
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiqueGR&layout=compact)
 
 
