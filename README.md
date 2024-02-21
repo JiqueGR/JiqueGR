@@ -18,7 +18,7 @@ Foco principal na análise de dados e desenvolvimento Full Stack, com destaque n
 
 <section style="
   display: flex;
-  justify-content: space-evenly; 
+  justify-content: center; 
   align-items: center;">
   <a href="https://www.linkedin.com/in/joao-henrique-ravelli/">
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
