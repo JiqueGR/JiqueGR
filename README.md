@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,django,opencv,html,css,mysql,dotnet" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,django,opencv,html,css,dotnet,mysql" />
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiqueGR&layout=compact)
   </a>
 </p>
 
