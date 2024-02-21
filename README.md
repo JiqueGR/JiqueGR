@@ -1,4 +1,4 @@
-<p align="center"> Analista de Dados / Desenvolvedor Full Stack</p>
+<p align="center">Desenvolvedor Full Stack / Analista de Dados</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
